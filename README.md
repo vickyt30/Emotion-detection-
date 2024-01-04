@@ -9,4 +9,4 @@
 
 
 
-[^1]: Developed By
+[^1]: Developed By.
