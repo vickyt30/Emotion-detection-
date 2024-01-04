@@ -9,7 +9,7 @@
 
 
 
-[^1]**Developed by:**
-[^1] Akash Rasgania
-[^1] Vaibhav Thoke
-[^1] Vikas Chaudhary
+**Developed by:** [^1]
+Akash Rasgania [^1]
+Vaibhav Thoke [^1]
+Vikas Chaudhary [^1]
