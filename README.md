@@ -9,7 +9,4 @@
 
 
 
-**Developed by:** [^1]
-Akash Rasgania [^1]
-Vaibhav Thoke [^1]
-Vikas Chaudhary [^1]
+[^1]: Developed By
